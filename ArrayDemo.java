@@ -9,7 +9,7 @@ public class ArrayDemo {
         numbersArray[3] = 77;
         numbersArray[4] = 47;
 
-        // Uncommented and corrected the original for loop
+   
         // for (int i = 0; i < numbersArray.length; i++) {
         //     System.out.println(numbersArray[i]);
         //     if (numbersArray[i] == 54) {
